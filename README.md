@@ -1,2 +1,1 @@
-# FutureIntern_PD_03
-Random Password Generator: A handy tool that creates strong, secure passwords with customizable criteria.
+I developed a random password generator tool using Python and Tkinter. The project allowed users to create passwords of varying strengths - poor, average, or strong - based on their selection. By working on this project, I demonstrated my prociency in Python programming and GUI development with Tkinter.
